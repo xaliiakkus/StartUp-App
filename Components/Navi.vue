@@ -18,7 +18,7 @@
                 <div class="flex items-center space-x-8">
                     <div class=" px-4 mx-4 py-1">
                         <div class=" flex px-3 gap-4">
-                            <button class="w-[167px] h-[58px] rounded-full border border-sky-200">Download App</button>
+                            <button class="w-[167px] h-[58px] rounded-full border border-sky-200"> Download App</button>
                             <button class="w-[167px] h-[58px] bg-[#0B0D39] rounded-full text-white">Let's Discuss</button>
                         </div>
                     </div>
